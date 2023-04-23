@@ -1,0 +1,52 @@
+/* html {
+      -webkit-box-sizing: border-box;
+              box-sizing: border-box;
+      scroll-behavior: smooth;
+    }
+    
+    *,
+    *::before,
+    *::after {
+      -webkit-box-sizing: inherit;
+              box-sizing: inherit;
+    }
+    
+    body {
+      margin: 0;
+    }
+    
+    ul,
+    ol {
+      margin: 0;
+      padding: 0;
+      list-style: none;
+    }
+    
+    a {
+      text-decoration: none;
+      display: inline-block;
+    }
+    
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p {
+      margin: 0;
+    }
+    .main{
+      margin-top: 300px;
+      display: flex;
+      justify-content: space-around;
+    }
+    .one{
+      font-size: larger;
+    } */
+    .card{
+      width: 200px;
+      height: 200px;
+      background-color: crimson;
+      display: inline-block;
+}
